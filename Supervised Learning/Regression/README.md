@@ -35,4 +35,3 @@ This project highlights the following skills and tools:
   - L1 Regularization (Lasso)
   - L2 Regularization (Ridge)
 
-
